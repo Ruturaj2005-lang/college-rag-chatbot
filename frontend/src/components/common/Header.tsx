@@ -17,7 +17,6 @@ import {
   ChevronDown,
   Check
 } from 'lucide-react';
-import { KnowledgeSearchBar } from '../search/KnowledgeSearchBar';
 import { SupportedLanguage } from '../../types';
 
 interface LanguageOption {
@@ -269,8 +268,6 @@ export const Header: React.FC = () => {
       {/* Mobile Drawer */}
       {isMobileMenuOpen && (
         <div className="sm:hidden absolute top-14 left-0 w-full bg-white dark:bg-[#111827] border-b border-gray-200 dark:border-gray-800 shadow-lg p-3 space-y-2.5 animate-in slide-in-from-top duration-150 z-50">
-          <KnowledgeSearchBar onAskQuestion={handleAsk} />
-
           {/* Language Selector in Mobile Drawer */}
           <div className="p-2 rounded-2xl bg-gray-50 dark:bg-gray-800/80 border border-gray-200 dark:border-gray-700 space-y-1.5">
             <div className="flex items-center gap-2 px-1 text-[11px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-wider">

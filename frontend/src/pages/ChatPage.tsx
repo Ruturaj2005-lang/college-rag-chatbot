@@ -4,7 +4,6 @@ import { ChatSidebar } from '../components/chat/ChatSidebar';
 import { ChatMessage } from '../components/chat/ChatMessage';
 import { ChatInput } from '../components/chat/ChatInput';
 import { WelcomeScreen } from '../components/chat/WelcomeScreen';
-import { KnowledgeSearchBar } from '../components/search/KnowledgeSearchBar';
 import { Conversation, Message, SupportedLanguage } from '../types';
 import { api } from '../lib/api';
 import { useAuth } from '../context/AuthContext';
@@ -247,9 +246,6 @@ export const ChatPage: React.FC = () => {
             </Link>
           </div>
         </div>
-
-        {/* Search Bar in Mobile Header */}
-        <KnowledgeSearchBar onAskQuestion={handleSendMessage} />
       </header>
 
       {/* MOBILE DRAWER SIDEBAR OVERLAY */}
