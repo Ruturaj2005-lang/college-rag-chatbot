@@ -1,0 +1,5 @@
+# CSE Machine Learning Lab Guidelines 2026
+## 1. Prerequisites
+Students must complete CS301 Database Systems and Python programming.
+## 2. Lab Evaluation Criteria
+Lab internal marks: 40 Marks for continuous evaluation, 60 Marks for end semester lab viva and project.

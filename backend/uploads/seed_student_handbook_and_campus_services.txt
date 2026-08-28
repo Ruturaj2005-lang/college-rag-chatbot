@@ -1,0 +1,44 @@
+# Student Handbook, Admissions, Library & Placement Services for All Programs
+
+## 1. Admission Eligibility & Process Across All Programs
+- **Undergraduate B.Tech Admissions (4 Years)**:
+  - *Eligibility*: Candidates must have passed 10+2 examination with Physics, Chemistry, and Mathematics (PCM) securing at least 75% aggregate marks (65% for SC/ST/PwD categories).
+  - *Entrance Route*: Valid rank in JEE Main / State Engineering Entrance Exam. Direct admission under Management/NRI quota based on 10+2 PCM merit.
+- **Undergraduate B.Sc & BCA Admissions (3 Years)**:
+  - *Eligibility*: 10+2 with Mathematics/Computer Science/Science stream with a minimum of 55% aggregate marks (50% for reserved categories). Admission is based on Class 12 merit counseling.
+- **Postgraduate M.Tech Admissions (2 Years)**:
+  - *Eligibility*: B.E. / B.Tech degree in relevant branch of engineering with at least 60% aggregate marks or 6.5 CGPA on a 10-point scale.
+  - *Selection*: Preference given to valid GATE scorecard holders. Non-GATE candidates are admitted through the College Postgraduate Entrance Test (CPET) followed by a technical interview.
+- **Postgraduate M.Sc Admissions (2 Years)**:
+  - *Eligibility*: Bachelor's degree (B.Sc) in the relevant science discipline (Computer Science, Physics, Chemistry, Mathematics, Biotechnology) with minimum 55% aggregate marks.
+- **Postgraduate MCA Admissions (2 Years)**:
+  - *Eligibility*: Passed BCA / Bachelor Degree in Computer Science Engineering or equivalent Degree OR passed B.Sc./ B.Com./ B.A. with Mathematics at 10+2 Level or at Graduation Level with at least 50% marks (45% for reserved category). Valid score in NIMCET / State MCA CET.
+- **Application Portal & Dates**: Online registration portal opens on May 15 and closes on June 30 every year on the college admissions portal.
+- **Required Verification Documents**: 10th & 12th Mark sheets, Degree certificates (for PG), Transfer Certificate (TC), Migration Certificate, Entrance Scorecard, and Category/Caste Certificate (if applicable).
+
+## 2. Training and Placement Cell (T&P) for All Branches
+- **Eligibility Criteria**: Students in their penultimate/final year (Semester 7 for B.Tech, Semester 5 for B.Sc/BCA, Semester 3 for M.Tech/M.Sc/MCA) with a CGPA >= 6.5 and no active backlogs.
+- **Placement Package Statistics by Discipline**:
+  - *B.Tech CSE / AI & DS / IT*: Average Package: 9.5 LPA | Highest Package: 44 LPA (Top Recruiters: Microsoft, Amazon, Google, Atlassian, Adobe, Cisco).
+  - *B.Tech ECE / EEE*: Average Package: 7.8 LPA | Highest Package: 28 LPA (Top Recruiters: Qualcomm, Texas Instruments, Intel, Samsung, Larsen & Toubro, Schneider Electric).
+  - *B.Tech Mechanical & Civil*: Average Package: 6.5 LPA | Highest Package: 18 LPA (Top Recruiters: Tata Motors, Larsen & Toubro, Mahindra, Bosch, Siemens, JSW Steel).
+  - *M.Tech All Branches*: Average Package: 11.5 LPA | Highest Package: 38 LPA (Top Recruiters: NVIDIA, Intel, AMD, Synopsys, GE Healthcare, IBM Research).
+  - *M.Sc & B.Sc (Data Science / CS / Biotech)*: Average Package: 6.2 LPA | Highest Package: 16 LPA (Top Recruiters: Deloitte, Mu Sigma, Biocon, Serum Institute, Dr. Reddy's, TCS Digital).
+  - *MCA*: Average Package: 8.0 LPA | Highest Package: 24 LPA (Top Recruiters: Oracle, Accenture, Capgemini, Cognizant, Infosys).
+
+## 3. Central Library Services & Facilities
+- **Location**: Building Block B, 2nd & 3rd Floors.
+- **Library Timings**:
+  - Monday to Saturday: 08:00 AM to 10:00 PM
+  - Sunday & Public Holidays: 10:00 AM to 05:00 PM
+  - During Examination Weeks: Open 24/7 with digital access.
+- **Borrowing Rules**:
+  - Undergraduate students (B.Tech / B.Sc / BCA) may borrow up to 4 books for 14 days.
+  - Postgraduate students (M.Tech / M.Sc / MCA) and research scholars may borrow up to 6 books for 30 days.
+  - Overdue fine: INR 5 per day per book after the due date.
+- **Digital Library**: Over 15,000 IEEE, ACM, Springer, ScienceDirect e-journals and databases accessible via campus Wi-Fi and remote VPN.
+
+## 4. Disciplinary Policies & Anti-Ragging Regulation
+- Zero-tolerance anti-ragging policy strictly enforced under Supreme Court of India directives and UGC regulations.
+- Any student indulging in ragging faces immediate suspension, criminal FIR filing, and expulsion.
+- 24/7 Anti-Ragging Helpline: 1800-180-5522 | Campus Proctor Office: Extension 404.

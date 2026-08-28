@@ -1,0 +1,97 @@
+# Academic Programs, Degrees and Branch Curriculum Catalog
+
+## 1. Undergraduate B.Tech Programs (4 Years / 8 Semesters)
+- **B.Tech in Computer Science & Engineering (CSE)**:
+  - *Core Subjects*: Data Structures & Algorithms, Object-Oriented Programming with Java/C++, Operating Systems, Computer Architecture, Database Management Systems (DBMS), Formal Language & Automata, Computer Networks, Software Engineering, Compiler Design.
+  - *Advanced Electives*: Artificial Intelligence, Machine Learning, Cloud Computing, Cyber Security, Blockchain, Natural Language Processing.
+  - *Credits*: Total 160 Credits across 8 semesters. Includes 3 Mini-Projects and an 8-credit Capstone Major Project.
+
+- **B.Tech in Artificial Intelligence & Data Science (AI & DS)**:
+  - *Core Subjects*: Python for Data Science, Linear Algebra & Probability, Foundations of AI, Machine Learning Algorithms, Deep Neural Networks, Computer Vision, Big Data Analytics with Hadoop & Spark, Reinforcement Learning.
+  - *Labs*: AI Lab, GPU Computing Lab, Data Engineering & Pipeline Lab.
+
+- **B.Tech in Information Technology (IT)**:
+  - *Core Subjects*: Full-Stack Web Technologies (React, Node.js), Distributed Cloud Architecture, Information & Network Security, Mobile Computing (Flutter/Android), DevOps and Agile Practices, Enterprise Systems.
+
+- **B.Tech in Electronics & Communication Engineering (ECE)**:
+  - *Core Subjects*: Digital Electronics, Analog Circuit Design, Signals & Systems, Microprocessors (8086/ARM), Digital Signal Processing (DSP), VLSI Design, Wireless & Cellular Communications, Microwave Engineering, Optical Fiber Communications.
+
+- **B.Tech in Electrical & Electronics Engineering (EEE)**:
+  - *Core Subjects*: Electric Circuit Analysis, Power Generation & Transmission, Electrical Machines (DC/AC), Control Systems Engineering, Power Electronics, Smart Grid Technology, Renewable Energy Systems, Electric Vehicle (EV) Engineering.
+
+- **B.Tech in Mechanical Engineering (ME)**:
+  - *Core Subjects*: Engineering Thermodynamics, Strength of Materials, Kinematics & Dynamics of Machines, Fluid Mechanics & Hydraulics, Heat and Mass Transfer, CAD/CAM/CAE Modeling, Manufacturing Technology, Robotics & Automation.
+
+- **B.Tech in Civil Engineering (CE)**:
+  - *Core Subjects*: Structural Analysis, Concrete Technology & Design of Steel Structures, Geotechnical & Soil Engineering, Environmental Engineering & Water Resource Management, Transportation Engineering, Surveying and Remote Sensing / GIS.
+
+- **B.Tech in Biotechnology (BT)**:
+  - *Core Subjects*: Cell Biology, Microbiology, Biochemistry, Genetic Engineering & Recombinant DNA, Bioinformatics, Bioprocess Engineering & Fermentation Technology, Immunology, Plant and Animal Tissue Culture.
+
+## 2. Undergraduate B.Sc and BCA Programs (3 Years / 6 Semesters)
+- **B.Sc in Computer Science (Hons)**:
+  - *Core Subjects*: Programming Fundamentals in C & C++, Discrete Mathematics, Data Structures, Computer Organization, Database Concepts, Web Development Basics, Linux Shell Scripting, Computer Networks, Python Programming.
+  - *Total Credits*: 120 Credits. Includes Project Work in Semester 6.
+
+- **B.Sc in Data Science & Analytics**:
+  - *Core Subjects*: Applied Statistics, Python and R Programming, Exploratory Data Analysis, SQL & NoSQL Databases, Introduction to Machine Learning, Data Visualization using Tableau & PowerBI, Business Analytics.
+
+- **B.Sc in Information Technology (IT)**:
+  - *Core Subjects*: IT Infrastructure, Network Fundamentals, Open Source Technologies, Cyber Laws & Ethics, Database Administration, Cloud Fundamentals.
+
+- **B.Sc in Physics, Chemistry, Mathematics (PCM)**:
+  - *Core Subjects*: Classical Mechanics, Quantum Mechanics, Electromagnetism, Optics, Organic & Inorganic Chemistry, Physical Chemistry, Calculus, Differential Equations, Linear Algebra, Real Analysis.
+
+- **B.Sc in Biotechnology & Microbiology**:
+  - *Core Subjects*: General Microbiology, Molecular Genetics, Microbial Physiology, Bioinstrumentation, Industrial Microbiology, Enzymology, Environmental Biotechnology.
+
+- **Bachelor of Computer Applications (BCA)**:
+  - *Core Subjects*: Programming in C/C++/Java, Web Technology, Relational Databases (Oracle/MySQL), Software Engineering Principles, Computer Graphics, Mobile Application Development.
+
+## 3. Postgraduate M.Tech Programs (2 Years / 4 Semesters)
+- **M.Tech in Computer Science & Engineering (Specialization: AI & Cloud Systems)**:
+  - *Curriculum*: Advanced Data Structures & Algorithms, Deep Learning Architectures, High-Performance Computing, Cloud Infrastructure & Microservices, Natural Language Understanding, Research Methodology & Dissertation (Phase I & II).
+  - *Stipend*: INR 12,400 per month for GATE-qualified candidates under AICTE scheme.
+
+- **M.Tech in VLSI Design & Embedded Systems**:
+  - *Curriculum*: Digital & Analog CMOS IC Design, ASIC & FPGA Architecture, Hardware Description Languages (Verilog/VHDL), Real-Time Operating Systems (RTOS), Low Power VLSI Design, Embedded IoT Systems.
+
+- **M.Tech in Data Science & Machine Intelligence**:
+  - *Curriculum*: Advanced Machine Learning, Statistical Learning Theory, Big Data Processing & Streaming, Reinforcement Learning, Computer Vision & Pattern Recognition, Capstone Research Thesis.
+
+- **M.Tech in Structural Engineering**:
+  - *Curriculum*: Advanced Structural Analysis, Finite Element Methods (FEM), Earthquake Resistant Design of Structures, Dynamics of Structures, Advanced Concrete & Pre-stressed Concrete Design.
+
+- **M.Tech in Power Systems & Renewable Energy**:
+  - *Curriculum*: Power System Dynamics & Stability, Smart Grid Systems, Renewable Energy Integration, Advanced Power Converters, High Voltage AC/DC Transmission.
+
+- **M.Tech in Thermal & Fluid Engineering**:
+  - *Curriculum*: Advanced Thermodynamics, Computational Fluid Dynamics (CFD), Convective Heat Transfer, Refrigeration & Cryogenic Systems, Energy Audit & Management.
+
+## 4. Postgraduate M.Sc and MCA Programs (2 Years / 4 Semesters)
+- **M.Sc in Computer Science**:
+  - *Curriculum*: Design & Analysis of Advanced Algorithms, Artificial Intelligence, Cryptography & Network Security, Cloud Computing, Distributed Database Systems, Master's Project Dissertation.
+
+- **M.Sc in Data Science & Big Data Analytics**:
+  - *Curriculum*: Advanced Predictive Analytics, Machine Learning & Deep Learning, Big Data Frameworks (Apache Spark, Kafka), Time Series Analysis & Forecasting, Natural Language Processing.
+
+- **M.Sc in Applied Physics & Photonics**:
+  - *Curriculum*: Solid State Physics, Quantum Electrodynamics, Laser Physics & Non-Linear Optics, Nanomaterials & Characterization, Optoelectronic Devices.
+
+- **M.Sc in Chemistry (Organic & Analytical)**:
+  - *Curriculum*: Advanced Organic Synthesis, Stereochemistry, Spectroscopy (NMR, FTIR, Mass Spectrometry), Analytical Techniques & Chromatography, Medicinal Chemistry, Polymers.
+
+- **M.Sc in Mathematics & Computing**:
+  - *Curriculum*: Numerical Analysis & Scientific Computing with MATLAB/Python, Abstract Algebra, Topology, Graph Theory & Applications, Optimization Techniques & Operations Research.
+
+- **M.Sc in Biotechnology**:
+  - *Curriculum*: Advanced Molecular Biology, Genetic Engineering, Genomics & Proteomics, Biostatistics, Bio-safety & Bioethics, Industrial Bioprocessing.
+
+- **Master of Computer Applications (MCA)**:
+  - *Curriculum*: Advanced Java & Python, Full-Stack Enterprise Development (Spring Boot / Node.js), Cloud Native Architecture, Cyber Security & Ethical Hacking, Agile Project Management, Major Industry Internship.
+
+## 5. Grading System, CGPA Calculation & Academic Evaluation
+- Grading Scale: 10-Point Scale (O: 10.0 - Outstanding, A+: 9.0 - Excellent, A: 8.0 - Very Good, B+: 7.0 - Good, B: 6.0 - Above Average, C: 5.0 - Average/Pass, F: 0.0 - Fail).
+- SGPA Formula: SGPA = Sum(Course Credit * Grade Point) / Total Semester Credits.
+- CGPA Formula: Cumulative Grade Point Average calculated across all completed semesters.
+- Passing Standard: Minimum 40% in Continuous Internal Evaluation (CIE) and 40% in Semester End Examination (SEE) with an aggregate of 50%.

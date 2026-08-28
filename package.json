@@ -1,0 +1,19 @@
+{
+  "name": "college-rag-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RAG-Based College Chatbot with MongoDB Atlas Vector Search",
+  "scripts": {
+    "dev": "concurrently -n \"BACKEND,FRONTEND\" -c \"cyan,magenta\" \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "start": "npm run dev",
+    "dev:backend": "cd backend && python -m uvicorn app.main:app --reload --port 8000",
+    "dev:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && python seed_data.py",
+    "test:backend": "python -m pytest backend/tests -v",
+    "evaluate": "python backend/evaluate_rag.py",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

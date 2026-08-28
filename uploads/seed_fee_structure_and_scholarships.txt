@@ -1,0 +1,28 @@
+# College Tuition Fee Structure and Scholarship Policies
+
+## 1. Academic Tuition Fees (Annual)
+- B.Tech in Computer Science & Engineering (CSE): INR 1,20,000 per year (INR 60,000 per semester).
+- B.Tech in Information Technology & AI: INR 1,15,000 per year (INR 57,500 per semester).
+- B.Tech in Electronics & Mechanical Engineering: INR 1,00,000 per year (INR 50,000 per semester).
+- Master of Computer Applications (MCA): INR 85,000 per year.
+- Master of Technology (M.Tech): INR 90,000 per year.
+- B.Sc in Agriculture: INR 90,000 per year
+
+## 2. Examination & Administrative Fees
+- Examination Fee: INR 1,500 per semester, payable prior to admit card download.
+- Late Examination Fee: INR 500 late surcharge after the announced deadline.
+- Re-evaluation / Re-totalling Fee: INR 750 per subject course.
+- Library & Lab Development Fee: INR 3,000 per year.
+
+## 3. Payment Schedule & Deadlines
+- Autumn/Odd Semester Fee Deadline: August 15 each academic year.
+- Spring/Even Semester Fee Deadline: January 15 each academic year.
+- A grace period of 7 days is permitted, after which a late fee of INR 100 per day is applied.
+
+## 4. Merit & Need-Based Scholarships
+- **President's Merit Scholarship**: 100% tuition fee waiver for students ranking in top 500 in state engineering entrance or scoring 95%+ in Class 12 PCM.
+- **Dean's Honors Scholarship**: 50% tuition waiver for semester SGPA >= 9.2 with no active backlogs.
+- **Women in STEM Excellence Award**: 25% tuition fee waiver for top 20 female engineering students.
+- **Financial Need Grant**: Up to 40% tuition assistance for families with annual gross income below INR 3.5 Lakhs.
+- **Sports Scholarship**: 30% fee concession for national and state-level sports medal winners.
+All scholarship renewal requires maintaining a minimum CGPA of 7.5 and 75% class attendance throughout the academic term.

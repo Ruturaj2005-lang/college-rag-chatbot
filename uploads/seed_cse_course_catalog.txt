@@ -1,0 +1,32 @@
+# Department of Computer Science & Engineering (CSE) - Course Catalog
+
+## 1. Department Overview & Degree Requirements
+The Department of Computer Science & Engineering offers a 4-year undergraduate B.Tech program comprising 160 total academic credits. Students must complete 8 semesters with a minimum cumulative grade point average (CGPA) of 5.0 to be awarded the degree.
+
+## 2. Core Curriculum & Course Offerings
+- **Semester 3**:
+  - CS201: Data Structures and Algorithms (4 Credits)
+  - CS202: Discrete Mathematics & Graph Theory (3 Credits)
+  - CS203: Digital Logic & Computer Architecture (4 Credits)
+  - CS204: Object-Oriented Programming with Java/C++ (3 Credits)
+- **Semester 4**:
+  - CS301: Database Management Systems & SQL (4 Credits)
+  - CS302: Operating Systems & System Programming (4 Credits)
+  - CS303: Theory of Computation & Automata (3 Credits)
+  - CS304: Design and Analysis of Algorithms (4 Credits)
+- **Semester 5**:
+  - CS401: Computer Networks & Protocols (4 Credits)
+  - CS402: Software Engineering & Agile Methodologies (3 Credits)
+  - CS403: Artificial Intelligence & Knowledge Systems (4 Credits)
+- **Semester 6**:
+  - CS501: Machine Learning and Deep Neural Networks (4 Credits)
+  - CS502: Compiler Design (4 Credits)
+  - CS503: Cloud Computing & Distributed Systems (3 Credits)
+- **Semester 7 & 8**:
+  - CS601: Capstone Major Project (8 Credits)
+  - Professional Electives: Cyber Security, Blockchain Technology, Big Data Analytics, NLP, Internet of Things (IoT).
+
+## 3. Minimum Attendance Requirement
+- Every student must maintain at least 75% attendance in both lectures and practical labs for each registered course.
+- Students with attendance between 65% and 74% due to verified medical illness may be condoned by the Dean of Academic Affairs upon submission of medical proof within 7 days.
+- Students below 65% attendance will be debarred from taking the semester end examination.

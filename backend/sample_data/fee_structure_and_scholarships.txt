@@ -1,0 +1,55 @@
+# College Tuition Fee Structure and Scholarship Policies for All Programs
+
+## 1. Undergraduate B.Tech Tuition Fees (Annual)
+- B.Tech in Computer Science & Engineering (CSE): INR 1,20,000 per year (INR 60,000 per semester).
+- B.Tech in Artificial Intelligence & Data Science (AI & DS): INR 1,20,000 per year (INR 60,000 per semester).
+- B.Tech in Information Technology (IT): INR 1,15,000 per year (INR 57,500 per semester).
+- B.Tech in Electronics & Communication Engineering (ECE): INR 1,10,000 per year (INR 55,000 per semester).
+- B.Tech in Electrical & Electronics Engineering (EEE): INR 1,05,000 per year (INR 52,500 per semester).
+- B.Tech in Mechanical Engineering (ME): INR 1,00,000 per year (INR 50,000 per semester).
+- B.Tech in Civil Engineering (CE): INR 1,00,000 per year (INR 50,000 per semester).
+- B.Tech in Biotechnology (BT): INR 1,05,000 per year (INR 52,500 per semester).
+
+## 2. Undergraduate B.Sc and BCA Tuition Fees (Annual)
+- B.Sc in Computer Science (Hons): INR 65,000 per year (INR 32,500 per semester).
+- B.Sc in Data Science & Analytics: INR 65,000 per year (INR 32,500 per semester).
+- B.Sc in Information Technology (IT): INR 60,000 per year (INR 30,000 per semester).
+- B.Sc in Physics, Chemistry, Mathematics (PCM): INR 55,000 per year (INR 27,500 per semester).
+- B.Sc in Biotechnology & Microbiology: INR 58,000 per year (INR 29,000 per semester).
+- Bachelor of Computer Applications (BCA): INR 70,000 per year (INR 35,000 per semester).
+
+## 3. Postgraduate M.Tech, M.Sc, and MCA Tuition Fees (Annual)
+- M.Tech in Computer Science & Engineering (AI & Cloud): INR 90,000 per year (INR 45,000 per semester).
+- M.Tech in VLSI Design & Embedded Systems: INR 90,000 per year (INR 45,000 per semester).
+- M.Tech in Data Science & Machine Intelligence: INR 90,000 per year (INR 45,000 per semester).
+- M.Tech in Structural Engineering: INR 85,000 per year (INR 42,500 per semester).
+- M.Tech in Power Systems & Renewable Energy: INR 85,000 per year (INR 42,500 per semester).
+- M.Tech in Thermal Engineering: INR 85,000 per year (INR 42,500 per semester).
+- M.Sc in Computer Science: INR 70,000 per year (INR 35,000 per semester).
+- M.Sc in Data Science & Big Data Analytics: INR 70,000 per year (INR 35,000 per semester).
+- M.Sc in Applied Physics & Photonics: INR 60,000 per year (INR 30,000 per semester).
+- M.Sc in Chemistry (Organic & Analytical): INR 60,000 per year (INR 30,000 per semester).
+- M.Sc in Mathematics & Computing: INR 58,000 per year (INR 29,000 per semester).
+- M.Sc in Biotechnology: INR 65,000 per year (INR 32,500 per semester).
+- Master of Computer Applications (MCA): INR 85,000 per year (INR 42,500 per semester).
+
+## 4. Examination & Administrative Fees
+- Semester Examination Fee: INR 1,500 per semester, payable prior to admit card release.
+- Late Examination Fee: INR 500 late surcharge after the announced deadline.
+- Re-evaluation / Re-totalling Fee: INR 750 per subject course.
+- Laboratory & Library Maintenance Fee: INR 3,000 per year.
+- Training & Placement Registration Fee: INR 2,000 (one-time in final year).
+
+## 5. Payment Schedule & Deadlines
+- Autumn/Odd Semester Fee Deadline: August 15 each academic year.
+- Spring/Even Semester Fee Deadline: January 15 each academic year.
+- A grace period of 7 days is permitted, after which a late fee of INR 100 per day is applied.
+
+## 6. Merit & Need-Based Scholarships
+- **President's Merit Scholarship**: 100% tuition fee waiver for students ranking in top 500 in state/national entrance exams or scoring 95%+ in Class 12.
+- **Dean's Honors Scholarship**: 50% tuition waiver for semester SGPA >= 9.2 with no active backlogs across B.Tech, B.Sc, M.Tech, and M.Sc.
+- **GATE Fellowship for M.Tech**: Monthly AICTE stipend of INR 12,400 for all GATE-qualified M.Tech candidates.
+- **Women in STEM Excellence Award**: 25% tuition fee waiver for top 20 female students in STEM programs.
+- **Financial Need Grant**: Up to 40% tuition fee concession for families with annual gross income below INR 3.5 Lakhs.
+- **Sports Scholarship**: 30% fee concession for national and state-level sports medal winners.
+Renewal of all scholarships requires maintaining a minimum CGPA of 7.5 and 75% class attendance.

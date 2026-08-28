@@ -1,0 +1,33 @@
+# Student Handbook, Admissions, Library & Placement Services
+
+## 1. Admission Eligibility & Process
+- **Undergraduate B.Tech Admissions**: Candidates must have passed 10+2 with Physics, Chemistry, and Mathematics (PCM) securing at least 75% aggregate marks (65% for reserved categories) and qualify through the national/state JEE Main entrance examination with cutoff ranks determined annually.
+- **Application Portal**: Online applications open on May 15 and close on June 30 every year on the college admissions portal.
+- **Document Verification**: Required documents include 10th & 12th mark sheets, Transfer Certificate, Migration Certificate, Entrance Scorecard, and Category Certificate (if applicable).
+
+## 2. Central Library Services & Facilities
+- **Location**: Building Block B, 2nd & 3rd Floors.
+- **Library Timings**:
+  - Monday to Saturday: 08:00 AM to 10:00 PM
+  - Sunday & Public Holidays: 10:00 AM to 05:00 PM
+  - During Examination Weeks: Open 24/7 with digital access.
+- **Borrowing Rules**:
+  - Undergraduate students may borrow up to 4 books for a loan duration of 14 days.
+  - Postgraduate/Research scholars may borrow up to 6 books for 30 days.
+  - Overdue fine: INR 5 per day per book after the due date.
+- **Digital Library**: Over 15,000 IEEE, ACM, Springer e-journals and databases accessible via campus Wi-Fi.
+
+## 3. Training and Placement Cell (T&P)
+- **Eligibility Criteria**: Students in their 7th semester with a CGPA of 6.5 or above and no active backlogs are eligible to register for campus placement drives.
+- **Placement Process**:
+  1. Mandatory Pre-Placement Training & Resume verification.
+  2. Pre-Placement Talks (PPT) by visiting recruiting companies.
+  3. Online Aptitude & Technical Coding Assessments.
+  4. Technical Interviews & HR Round.
+  5. Offer Letter release under One-Student-One-Offer Policy (Dream company tier exceptions apply).
+- **Recruiters & Statistics**: Top regular recruiters include Microsoft, Amazon, Google, TCS, Infosys, Wipro, and Accenture. The average annual CTC for CSE is 9.5 LPA, with the highest package reaching 44 LPA.
+
+## 4. Disciplinary Policies & Anti-Ragging Regulation
+- Ragging in any form (verbal, physical, or psychological) is strictly criminalized under Supreme Court directives.
+- Zero tolerance policy: Any student found guilty of ragging faces immediate suspension, FIR filing, and expulsion.
+- 24/7 Anti-Ragging Helpline: 1800-180-5522 | Campus Proctor Office: Ext 404.
