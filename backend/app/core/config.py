@@ -1,7 +1,9 @@
 import os
+import json
 from pathlib import Path
-from typing import List
+from typing import List, Union, Any
 from dotenv import load_dotenv
+from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 # Automatically locate .env in backend directory or root directory
@@ -15,7 +17,7 @@ load_dotenv(ROOT_DIR / ".env")
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(
         env_file=(str(BASE_DIR / ".env"), str(ROOT_DIR / ".env"), ".env"),
-        extra="allow"
+        extra="ignore"
     )
 
     PROJECT_NAME: str = "RAG-Based College Chatbot"
@@ -50,13 +52,28 @@ class Settings(BaseSettings):
     UPLOAD_DIR: str = os.getenv("UPLOAD_DIR", "uploads")
     
     # CORS
-    CORS_ORIGINS: List[str] = [
+    CORS_ORIGINS: Union[List[str], str] = [
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "http://localhost:3000",
         "http://127.0.0.1:3000",
         "*"
     ]
+
+    @field_validator("CORS_ORIGINS", mode="before")
+    @classmethod
+    def assemble_cors_origins(cls, v: Any) -> List[str]:
+        if isinstance(v, str):
+            if v.startswith("[") and v.endswith("]"):
+                try:
+                    return json.loads(v)
+                except Exception:
+                    pass
+            parsed = [i.strip() for i in v.split(",") if i.strip()]
+            return parsed if parsed else ["*"]
+        elif isinstance(v, (list, tuple)):
+            return [str(i) for i in v]
+        return ["*"]
 
 
 settings = Settings()
