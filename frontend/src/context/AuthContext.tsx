@@ -41,11 +41,11 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     const savedToken = localStorage.getItem('college_rag_token');
     if (savedToken) {
       api.auth.getMe()
-        .then((verifiedUser) => {
+        .then((verifiedUser: any) => {
           setUser(verifiedUser);
           localStorage.setItem('college_rag_user', JSON.stringify(verifiedUser));
         })
-        .catch((err) => {
+        .catch((err: any) => {
           // If token explicitly rejected as invalid (401), logout
           if (err.message?.includes('401') || err.message?.includes('Could not validate')) {
             logout();
