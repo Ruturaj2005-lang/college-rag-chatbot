@@ -32,11 +32,6 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onSelectQuestion }
             <FileCheck className="w-4 h-4 text-[#4B41E1] dark:text-[#818CF8] flex-shrink-0" />
             <span>Verified Knowledge</span>
           </div>
-
-          <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white dark:bg-[#111827] border border-gray-200 dark:border-gray-800 shadow-2xs">
-            <Database className="w-4 h-4 text-indigo-600 dark:text-indigo-400 flex-shrink-0" />
-            <span>Atlas Vector Search</span>
-          </div>
         </div>
       </div>
 
