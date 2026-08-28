@@ -5,8 +5,7 @@
   "description": "RAG-Based College Chatbot with MongoDB Atlas Vector Search",
   "scripts": {
     "dev": "concurrently -n \"BACKEND,FRONTEND\" -c \"cyan,magenta\" \"npm run dev:backend\" \"npm run dev:frontend\"",
-    "start": "uvicorn backend.app.main:app --host 0.0.0.0 --port ${PORT:-8000}",
-    "start:python": "uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}",
+    "start": "python -m uvicorn app.main:app --app-dir backend --host 0.0.0.0 --port ${PORT:-8000}",
     "dev:backend": "cd backend && python -m uvicorn app.main:app --reload --port 8000",
     "dev:frontend": "cd frontend && npm run dev",
     "seed": "cd backend && python seed_data.py",
